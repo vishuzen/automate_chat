@@ -1,5 +1,8 @@
 # 🛒 Order Chatbot with Streamlit and LangChain
 
+![image](https://github.com/user-attachments/assets/3fe98a0b-18ab-42ba-843c-3716c1a9917c)
+
+
 This is an AI-powered **Order Chatbot** built using **Streamlit**, **LangChain**, and **Cerebras LLM**. It interacts with users to take product orders, shows product cards dynamically, calculates order summary, and provides an order placement confirmation in a conversational UI.
 
 ---
